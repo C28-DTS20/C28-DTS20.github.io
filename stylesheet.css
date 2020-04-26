@@ -75,17 +75,16 @@ header {
     padding: 21px 0;
     /* Gantikan property display ke none */
     display: none;
-    margin-right: -25px;
 }
 
 footer img {
-    margin-top: 3px;
+    margin-top: 20px;
     width: 45px;
 }
 
 .foot-container {
     text-align: center;
-    max-width: 1820px;
+    max-width: fit-content;
     width: 100%;
     padding: 0 15px;
     margin: 0 auto;
@@ -105,6 +104,7 @@ footer {
 footer p {
     color: #b3aeb5;
     font-size: 13px;
+    padding-bottom: 30px;
 }
 
 /*---------------[AKHIR CSS HEADER & FOOTER BY deckyhr#0013]-------------*/
@@ -137,7 +137,9 @@ body {
 
 .text-center h2 {
     margin-bottom: 30px;
-    font-size: 48px;
+    font-size: 40px;
+    font-family: Futura LT;
+    text-align: center;
 }
 
 .text-center p {
@@ -337,7 +339,8 @@ button:hover {
 
 .team-text h2 {
     margin: 0;
-    font-family: Tahoma, sans-serif;
+    font-family: Futura LT;
+    font-weight: bolder;
     letter-spacing: 3px;
     text-align: center;
 }
@@ -346,7 +349,7 @@ button:hover {
     letter-spacing: 1px;
     font-size: 15px;
     margin-top: 8px;
-    font-family: 'Poppins', sans-serif;
+    /*font-family: 'Poppins', sans-serif;*/
     text-align: center;
 }
 
@@ -382,6 +385,8 @@ h1 {
     color: white;
     text-align: center;
     padding-top: 60px;
+    font-family: Futura LT;
+    font-size: 40px;
 }
 
 /*---------------[AKHIR CSS Ekstra1 (TEAM) BY edi saputra#0137 & Egawa Mugni#4903]-------------*/
