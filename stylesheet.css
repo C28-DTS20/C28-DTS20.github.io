@@ -9,6 +9,10 @@
     box-sizing: inherit;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     margin: 0;
     font-family: "futura LT";
@@ -387,6 +391,10 @@ h1 {
     padding-top: 60px;
     font-family: Futura LT;
     font-size: 40px;
+}
+
+#form {
+    transition: all 0.8s;
 }
 
 /*---------------[AKHIR CSS Ekstra1 (TEAM) BY edi saputra#0137 & Egawa Mugni#4903]-------------*/
