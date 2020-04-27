@@ -434,7 +434,8 @@ h1 {
 
 .top-wrapper {
     padding: 20px 20px 20px 200px;
-    background-image: url("img/cover.jpg");
+    /*background-image: url("img/cover.jpg");*/
+    background-image: url("http://digimagine.web.id/images/vbg10.jpg");
     background-size: cover;
     color: white;
     text-align: center;
